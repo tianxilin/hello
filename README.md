@@ -1,6 +1,5 @@
 # hello
 111111：
-my first
 package book;
 import javax.swing.*;
 import java.awt.*;
